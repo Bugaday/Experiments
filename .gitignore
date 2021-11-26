@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/RifleAnimsetPro/SourceFiles/SourceFiles.zip
+Content/PistolAnimsetPro/SourceFiles/SourceFiles.zip
+Content/MovementAnimsetPro/SourceFiles/SourceFiles.zip
+Content/CoverAnimsetPro/SourceFiles/SourceFiles.zip
